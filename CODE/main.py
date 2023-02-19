@@ -1,4 +1,5 @@
 # EXCERCISE 1: February 19th, 2023
+# practicing from: https://keras.io/examples/
 
 import os
 import tensorflow as tf
